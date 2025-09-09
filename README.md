@@ -1,6 +1,7 @@
 # CursoRAngularJS
 
 <!----Notas---->
+Notas por ser escritas.
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
