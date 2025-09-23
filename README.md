@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas:**
 
-**- Aun por ser puestas.**
+**- Aun por ser colocadas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
