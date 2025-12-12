@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas:**
 
-**- Todavía por ser escritas.**
+**- Se debe de tener cuidado con algunos archivos.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
