@@ -7,5 +7,5 @@
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
-Todavía por ser escrito.
+Trabajo en proceso.
 <!----Separador del directorio con descripción de los programas---->
