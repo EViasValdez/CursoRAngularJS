@@ -1,5 +1,9 @@
 # Curso de AngularJS
 
+<!----Descripción---->
+Por ser escrita.
+<!----Separador de la descripción ---->
+
 <!----Notas---->
 **Notas:**
 
