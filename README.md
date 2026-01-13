@@ -1,4 +1,4 @@
-# CursoRAngularJS
+# Curso de AngularJS
 
 <!----Notas---->
 **Notas:**
