@@ -7,7 +7,7 @@ Por ser escrita.
 <!----Notas---->
 **Notas:**
 
-**- Se debe de tener cuidado con algunos archivos.**
+**- Se debe de tener cuidado con algunos archivos ya que hay problemas al hacer commits.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
