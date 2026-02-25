@@ -1,7 +1,7 @@
 # Curso de AngularJS
 
 <!----Descripción---->
-Unos cuantos de los programas que hice en un curso.
+Unos cuantos de los programas que hice en un curso del frontend de AngularJS.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
