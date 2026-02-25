@@ -1,7 +1,7 @@
 # Curso de AngularJS
 
 <!----Descripción---->
-Por ser escrita.
+Unos cuantos de los programas que hice en un curso.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
