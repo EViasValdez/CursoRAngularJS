@@ -6,7 +6,6 @@ Unos cuantos de los programas que hice en un curso del frontend de AngularJS.
 
 <!----Notas---->
 **Notas:**
-
 **- Se debe de tener cuidado con algunos archivos ya que hay problemas al realizar commits.**
 <!----Separador de las notas---->
 
