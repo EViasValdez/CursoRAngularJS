@@ -2,7 +2,7 @@
 
 <!----Descripción---->
 Unos cuantos de los programas que hice en un curso del frontend de AngularJS.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas---->
 **Notas:**
