@@ -10,5 +10,5 @@ Unos cuantos de los programas que hice en un curso del frontend de AngularJS.
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
-Trabajo en proceso.
+Descripcion en proceso.
 <!----Separador del directorio con descripción de los programas---->
