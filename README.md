@@ -8,7 +8,7 @@ Algunos de los programas que hice en un curso de AngularJS.
 **Notas:**
 **- Se debe de tener cuidado con algunos archivos ya que hay problemas al realizar commits (Visual Studio Code tiende a marcar carpetas como archivos individuales en algunas ocasiones).**
 
-**- Puede estar un poco desactualizado cada una de las carpetas.**
+**- Pueden estar un poco desactualizados cada uno de módulos.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
